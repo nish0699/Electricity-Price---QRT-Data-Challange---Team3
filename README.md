@@ -43,5 +43,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
 - Navigate to the directory containing the notebooks.
 - Run `jupyter notebook` and open the desired notebook in the browser.
 
-## Contributing
-We welcome contributions from other team members and the community. Please feel free to fork the repository, make changes, and submit pull requests.
